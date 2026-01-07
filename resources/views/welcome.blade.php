@@ -72,7 +72,7 @@
         </header>
 
             {{-- Hero Section --}}
-            <div class="relative isolate px-6 py-16 sm:py-24 lg:py-36 lg:px-8" style="background-image: url('{{ asset('images/hockey-hero.jpg') }}'); background-size: cover; background-position: center; background-repeat: no-repeat;">
+            <div class="relative isolate px-6 py-24 sm:py-32 lg:py-36 lg:px-8" style="background-image: url('{{ asset('images/hockey-hero.jpg') }}'); background-size: cover; background-position: center; background-repeat: no-repeat;">
                 <div class="absolute inset-0 bg-black/50"></div>
                 <div class="relative mx-auto max-w-2xl">
                 <div class="text-center">
